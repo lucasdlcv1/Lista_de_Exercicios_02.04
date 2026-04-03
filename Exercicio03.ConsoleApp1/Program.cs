@@ -6,4 +6,3 @@ double TempFah = (tempCels * 1.8) + 32;
 Console.WriteLine($"A temperatura equivalente em Fahrenheit é " + TempFah);
 Console.ReadLine();
 
-
