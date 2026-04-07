@@ -3,4 +3,10 @@
   <Project Path="Exercicio02.ConsoleApp1/Exercicio02.ConsoleApp1.csproj" />
   <Project Path="Exercicio03.ConsoleApp1/Exercicio03.ConsoleApp1.csproj" />
   <Project Path="Exercicio04.ConsoleApp1/Exercicio04.ConsoleApp1.csproj" />
+  <Project Path="Exercicio05.ConsoleApp1/Exercicio05.ConsoleApp1.csproj" />
+  <Project Path="Exercicio06.ConsoleApp1/Exercicio06.ConsoleApp1.csproj" />
+  <Project Path="Exercicio07.ConsoleApp1/Exercicio07.ConsoleApp1.csproj" />
+  <Project Path="Exercicio08.ConsoleApp1/Exercicio08.ConsoleApp1.csproj" />
+  <Project Path="Exercicio09.ConsoleApp1/Exercicio09.ConsoleApp1.csproj" />
+  <Project Path="Exercicio10.ConsoleApp1/Exercicio10.ConsoleApp1.csproj" />
 </Solution>
