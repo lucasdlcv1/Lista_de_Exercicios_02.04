@@ -15,3 +15,5 @@ else
 {
     Console.WriteLine("O valor da soma de A + B é menor que C");
 }
+
+Console.ReadLine();

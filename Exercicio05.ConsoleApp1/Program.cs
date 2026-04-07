@@ -7,7 +7,7 @@ double PNota1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Digite o peso da segunda nota do aluno: ");
 double PNota2 = Convert.ToDouble(Console.ReadLine());
 
-double MediaPond = ((Nota1 * PNota1) + (Nota1 * PNota2)) / (PNota1 + PNota2);
+double MediaPond = ((Nota1 * PNota1) + (Nota2 * PNota2)) / (PNota1 + PNota2);
 
 Console.WriteLine("A média ponderada do aluno foi de: " + MediaPond);
 

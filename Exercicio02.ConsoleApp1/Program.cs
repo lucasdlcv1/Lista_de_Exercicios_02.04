@@ -8,3 +8,4 @@ int consumo = Convert.ToInt32(Console.ReadLine());
 int consumomed = (kmfim - kmini)/ consumo;
 
 Console.WriteLine("O consumo medio do veículo foi de: " + consumomed + " km/L");
+Console.ReadLine();

@@ -1,7 +1,7 @@
 ﻿Console.WriteLine("Digite um numero");
 int numero = Convert.ToInt32(Console.ReadLine());
 int Fatnumero = numero;
-Console.WriteLine("!"+numero+"=" + numero);
+Console.Write(numero + "! = ");
 
 for(int i=numero; i > 1; i--)
 {
@@ -14,4 +14,5 @@ for(int i=numero; i >= 2; i--)
     numero--;
 }
 
-Console.Write("1 =" + Fatnumero);
+Console.Write("1 = " + Fatnumero);
+Console.ReadLine();
